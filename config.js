@@ -3,9 +3,9 @@ const CONFIG_APP = {
         NAME: "WATCHMARKET-TEST",
         VERSION: "2026.02.19",
         SCAN_LIMIT: true,
-        AUTORUN: true,
+        AUTORUN: false,
         AUTO_VOLUME: true,   // Set false untuk menyembunyikan & menonaktifkan fitur auto volume
-        VOL_CHECK: true,
+        VOL_CHECK: false,
         META_DEX: false,     // Set true untuk menghidupkan fitur META-DEX aggregator (LIFI, DZAP, Rubic, Rango)
         DEBUG_LOG: false,   // ✅ PERF: Set true untuk aktifkan debug logging (default: false untuk performance)
     },
