@@ -1,6 +1,6 @@
 const CONFIG_APP = {
     APP: {
-        NAME: "WATCHMARKET-BETA",
+        NAME: "WATCHMARKET-TEST",
         VERSION: "2026.02.19",
         SCAN_LIMIT: true,
         AUTORUN: true,
